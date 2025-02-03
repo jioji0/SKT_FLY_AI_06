@@ -1,9 +1,10 @@
 import openai
 
-OPENAI_API_KEY = "2ijsSmJJi8l9zBKCjLUyvOr1Wour7dublAAZkqsIKNvhQJLLilSNJQQJ99BBACYeBjFXJ3w3AAAAACOGgnEU"
+#edit with your infomation
+OPENAI_API_KEY = "add your key"
 OPENAI_API_VERSION = "2023-05-15"
 OPENAI_API_TYPE = "azure"
-OPENAI_ENDPOINT = "https://labuser3-aiservice-003.openai.azure.com"
+OPENAI_ENDPOINT = "add your endpoint"
 
 MODEL_NAME = "dev-gpt-4o-mini"
 
