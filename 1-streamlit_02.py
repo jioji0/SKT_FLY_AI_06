@@ -1,11 +1,13 @@
 import openai
 import streamlit as st
 
-OPENAI_API_KEY = "2ijsSmJJi8l9zBKCjLUyvOr1Wour7dublAAZkqsIKNvhQJLLilSNJQQJ99BBACYeBjFXJ3w3AAAAACOGgnEU"
-OPENAI_API_VERSION = "2023-05-15"
-OPENAI_API_TYPE = "azure"
-OPENAI_ENDPOINT = "https://labuser3-aiservice-003.openai.azure.com"
+#change here
+OPENAI_API_KEY = ""
+OPENAI_API_VERSION = ""
+OPENAI_API_TYPE = ""
+OPENAI_ENDPOINT = ""
 
+#change here
 MODEL_NAME = "dev-gpt-4o-mini"
 
 openai.api_key = OPENAI_API_KEY
